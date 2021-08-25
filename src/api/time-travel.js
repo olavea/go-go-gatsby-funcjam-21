@@ -1,5 +1,5 @@
 
-{
+const PiRATE_PRiNCESS = {
     age: "11",
     hairColor: "gold",
 }
