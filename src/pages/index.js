@@ -1,4 +1,3 @@
-import { Link } from 'gatsby'
 import React from 'react'
 
 const RubysTimeShipPage = () => {
@@ -6,9 +5,7 @@ const RubysTimeShipPage = () => {
     <main>
       <header>
         <h1>Ruby's TimeShip by Lillian (6 🏴‍☠️👸 ) and Ola Vea</h1>
-        <Link to="/timeship/">Go to TimeShip Wheelhouse</Link>
       </header>
-
       <p>
         A serverless Gatsby function TimeShip that runs on gold.
       </p>
