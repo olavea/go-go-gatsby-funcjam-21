@@ -26,7 +26,7 @@ async function timeShipHandler(req, res) {
 export default async function handler(req, res) {
     try {
         if (req.method === "GET") {
-            await postHandler(req, res);
+            await timeShipHandler(req, res);
         } else {
             res.status(405).json({ message: "Method not supported" });
         }
