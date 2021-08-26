@@ -5,7 +5,8 @@
   "description": "Go go gatsby funcjam",
   "author": "Lillian Raae-Vea, Ola Vea",
   "keywords": [
-    "gatsby", "gatsby-function"
+    "gatsby",
+    "gatsby-function"
   ],
   "scripts": {
     "develop": "gatsby develop",
@@ -15,7 +16,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "next",
+    "gatsby": "^3.12.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-hook-form": "^7.5.2"
