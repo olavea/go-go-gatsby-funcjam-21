@@ -1,11 +1,11 @@
 {
-  "name": "form",
+  "name": "go-go-gatsby-funcjam-21",
   "version": "1.0.0",
   "private": true,
-  "description": "form",
-  "author": "Kyle Mathews",
+  "description": "Go go gatsby funcjam",
+  "author": "Lillian Raae-Vea, Ola Vea",
   "keywords": [
-    "gatsby"
+    "gatsby", "gatsby-function"
   ],
   "scripts": {
     "develop": "gatsby develop",
