@@ -13,12 +13,7 @@ async function timeShipHandler(req, res) {
     // Give the data to res-the-cat 😺 and
     // then the TimeShip is on a test trip
     res.status(200).json({
-        message: `You time travelled to
-            the city of ${city},
-            in year ${year}, burned
-            ${price} cents in gold and teamed up with
-            a Pirate
-        `,
+        message: `You time travelled to the city of ${city}, in year ${year} and burned ${price} cents in gold. To go back home, build your own serverless Gatsby function TimeShip with the help of a Pirate`,
         princess: PiRATE_PRiNCESS
     });
 }

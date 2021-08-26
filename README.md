@@ -1,7 +1,7 @@
 
 # Ruby's TimeShip
 
-Ruby Reckless is building TimeShip fueled by gold. To save her sister Princess Lizabeth from prison in the Tower of London. Using a serverless Gatsby Function. You can build your own TimeShip.
+Ruby Reckless built a TimeShip fueled by gold. To save her sister Princess Lizabeth from prison in the Tower of London. You can build your own serverless Gatsby Function TimeShip.
 
 1.  **Start developing.**
 
@@ -13,11 +13,11 @@ Ruby Reckless is building TimeShip fueled by gold. To save her sister Princess L
     npm run develop
     ```
 
-2.  **Open the code and start customizing!**
+2.  **Open the code and start practicing!**
 
     Your site is now running at http://localhost:8000! You can test the function at http://localhost:8000/api/time-ship?city=oslo&year=2026&price=333
 
-    Edit the TimeShip function in `src/api/time-ship.js` and put your own name into the `src/pages/index.js`
+    Edit the serverless Gatsby Function TimeShip in `src/api/time-ship.js` and put your own name into the `src/pages/index.js`
 
 3.  **Deploy**
 
