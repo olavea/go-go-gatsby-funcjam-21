@@ -4,11 +4,14 @@ const RubysTimeShipPage = () => {
   return (
     <main>
       <header>
-        <h1>Ruby's TimeShip by Lillian (6 🏴‍☠️👸 ) and Ola Vea</h1>
+        <h1>Ruby's TimeShip by Lillian (6 🏴‍☠️👸 )</h1>
       </header>
+      <p>and Ola Vea (43 🏴‍☠️😺 )</p>
+      <h2>Ruby's TimeShip</h2>
       <p>
-        A serverless Gatsby function TimeShip fueled by gold.
-        Built to save Ruby's sister, Princess Lizabeth from prison in the Tower of London.
+        Is a serverless Gatsby function fueled by gold.
+        It's built so you can find The Pirate Princess Lillian (11) to help save Ruby's sister, Princess Lizabeth from prison in the Tower of London in 1554.
+        Each time travel trip will cost you $333 in gold.
       </p>
       <h2>Take a TimeShip Test Trip</h2>
       <ul>
@@ -37,11 +40,11 @@ const RubysTimeShipPage = () => {
         </li>
       </ul>
       <h2>Or Bring Your Own Idea to a Gatsby Function</h2>
-      <p>Fabolous prizes await the winners, .... like a M1 Mac Miniiiiii.... Clone the oficcial Gatsby FuncJam repo and get started:</p>
+      <p>Fabulous prizes await the winners, .... </p>
 
       <ul>
         <li>
-          <a href="https://github.com/gatsby-inc/gatsby-funcjam-21">https://github.com/gatsby-inc/gatsby-funcjam-21</a>
+          <a href="https://www.gatsbyjs.com/func-jam-21/">like an M1 Mac Miniiiiii....</a>
         </li>
       </ul>
 
