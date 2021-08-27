@@ -37,11 +37,11 @@ const RubysTimeShipPage = () => {
         </li>
       </ul>
       <h2>Or Bring Your Own Idea to a Gatsby Function</h2>
-      <p>Fabolous prizes await the winners, .... like a M1 Mac Miniiiiii.... Clone the oficcial Gatsby FuncJam repo and get started:</p>
+      <p>Fabulous prizes await the winners, .... </p>
 
       <ul>
         <li>
-          <a href="https://github.com/gatsby-inc/gatsby-funcjam-21">https://github.com/gatsby-inc/gatsby-funcjam-21</a>
+          <a href="https://www.gatsbyjs.com/func-jam-21/">like an M1 Mac Miniiiiii....</a>
         </li>
       </ul>
 
